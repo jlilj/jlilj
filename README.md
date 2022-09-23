@@ -24,3 +24,9 @@ I'm a systems analyst at Gousto studying data science and machine learning at ev
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamie-littlejohn&show_icons=true&locale=en&layout=compact" alt="jamie-littlejohn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie-littlejohn&show_icons=true&locale=en" alt="jamie-littlejohn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamie-littlejohn&" alt="jamie-littlejohn" /></p>
