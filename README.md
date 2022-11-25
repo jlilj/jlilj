@@ -1,8 +1,15 @@
 # 🏹 Jamie Littlejohn
 
-**`Data-Driven Developer`**
+**`Data Analyst | SQL/Python Developer`**
 
-I'm a systems analyst at Gousto studying data science and machine learning at every chance I get. My mission is to become a data scientist by 2024 and combine my 5 years experience in data and business analytics with the last 2 years of development on a Linux/Oracle/Java-based warehouse management system. 
+I'm an ever-learning data analyst and developer offering user-friendly solutions to 
+everyone's favourite data questions - "What does this mean?" and "How do we use 
+it?". I have over seven years experience in data storytelling, forecasting and data 
+migration projects having worked for a number of large companies across the UK 
+innovating critical business data processes.
+
+I specialise in SQL/Python development with a solid background in delivering 
+actionable intelligence and business value with Excel and Power BI too. 
 
 ---
 
