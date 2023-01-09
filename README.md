@@ -38,8 +38,8 @@ actionable intelligence and business value with Excel and Power BI too.
 
 ### 📈 Statistics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamie-littlejohn&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="jamie-littlejohn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlilj&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="jlilj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamie-littlejohn&show_icons=true&locale=en&theme=midnight-purple" alt="jamie-littlejohn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlilj&show_icons=true&locale=en&theme=midnight-purple" alt="jlilj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamie-littlejohn&theme=midnight-purple" alt="jamie-littlejohn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlilj&theme=midnight-purple" alt="jlilj" /></p>
