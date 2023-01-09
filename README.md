@@ -2,7 +2,7 @@
 
 **`Data/Analytics Engineer`**
 
-I'm an ex-data analyst focused on improving economy, efficiency and effectiveness by developing user-friendly solutions and solving everyone's favourite data questions - "What does this mean?" and "How do we use it?". 
+I'm an ex-data/systems analyst focused on improving economy, efficiency and effectiveness by developing user-friendly solutions and solving everyone's favourite data questions - "What does this mean?" and "How do we use it?". 
 
 I have over seven years of experience in data analytics, data storytelling, forecasting, data migration, database development and automation projects having worked for a number of large companies across the UK innovating critical business data processes.
 
