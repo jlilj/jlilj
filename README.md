@@ -1,12 +1,10 @@
 # 🏹 Jamie Littlejohn
 
-**`Data/Analytics Engineer`**
+**`Data Analytics/Engineering`**
 
-I'm an ex-data/systems analyst focused on improving economy, efficiency and effectiveness by developing user-friendly solutions and solving everyone's favourite data questions - "What does this mean?" and "How do we use it?". 
+I'm a senior data analyst/engineer focused on improving economy, efficiency and effectiveness by developing user-friendly solutions and solving everyone's favourite data questions - "What does this mean?" and "How do we use it?". 
 
-I have over seven years of experience in data analytics, data storytelling, forecasting, data migration, database development and automation projects having worked for a number of large companies across the UK innovating critical business data processes.
-
-I specialise in SQL and Python development and I'm currently studying data science and engineering. I also have a solid background in delivering actionable intelligence and business value with Excel and Power BI too.
+A results-driven data professional with over seven years of experience in data analytics, development and migration projects. Proficient in SQL and Python with a strong background in Excel, Power BI, and cloud computing. Track record of delivering actionable insights and value to large UK companies.
 
 ---
 
