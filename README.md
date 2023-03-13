@@ -2,7 +2,7 @@
 
 **`Data Analytics/Engineering`**
 
-I'm a senior data analyst/engineer focused on improving economy, efficiency and effectiveness by developing user-friendly solutions and solving everyone's favourite data questions - "What does this mean?" and "How do we use it?". 
+I'm a senior data analyst/engineer focused on improving economy, efficiency and effectiveness by developing user-friendly solutions and solving everyone's favourite data questions - "What does this mean?" and "How do we use it?"
 
 A results-driven data professional with over seven years of experience in data analytics, development and migration projects. Proficient in SQL and Python with a strong background in Excel, Power BI, and cloud computing. Track record of delivering actionable insights and value to large UK companies.
 
