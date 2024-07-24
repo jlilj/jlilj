@@ -1,8 +1,8 @@
 # 🏹 Jamie Littlejohn
 
-**`Data Science/Engineering`**
+**`Data/Machine Learning Systems Engineering`**
 
-I'm a systems architect/engineer focused on improving economy, efficiency and effectiveness by developing user-friendly solutions and solving everyone's favourite data questions - "What does this mean?" and "How do we use it?"
+I'm a system architect/engineer focused on improving economy, efficiency and effectiveness by developing user-friendly solutions and solving everyone's favourite data questions - "What does this mean?" and "How do we use it?"
 
 A results-driven data professional with over nine years of experience in data system analytics, development and migration projects. Proficient in SQL and Python with a strong background in Excel and cloud computing. Track record of delivering actionable insights and value to large UK companies.
 
